@@ -6,5 +6,6 @@
 !*.py
 !*.ipynb
 
+sec2/draw_pic.ipynb
 # 同时保留 .gitignore 文件本身（可选）
 !.gitignore
